@@ -8,6 +8,6 @@ public class NewBehaviourScript : MonoBehaviour
 {
     public void bstart()
     {
-          SceneManager.LoadScene()
+        SceneManager.LoadScene(0);
     }
 }
